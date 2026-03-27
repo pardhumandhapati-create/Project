@@ -21,6 +21,21 @@ export default function DataTable() {
             <td>ECE</td>
             <td>85</td>
           </tr>
+          <tr>
+            <td>Anjali</td>
+            <td>MECH</td>
+            <td>88</td>
+          </tr>
+          <tr>
+            <td>Priya</td>
+            <td>EEE</td>
+            <td>92</td>
+          </tr>
+          <tr>
+            <td>Vikram</td>
+            <td>CIVIL</td>
+            <td>80</td>
+          </tr>
         </tbody>
       </table>
     </div>
